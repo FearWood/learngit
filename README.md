@@ -1,3 +1,4 @@
 # learngit
-no desription
+no description
 now it has!
+this is a description
